@@ -1,0 +1,15 @@
+---
+title: "Project Video"
+output: word_document
+date: "`r format(Sys.time(), '%d %B %Y')`"
+Name: Jason Schmidt Avendaño 
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r, Link to video on projects}
+https://usfedu-my.sharepoint.com/personal/jasonschmidt_usf_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fjasonschmidt%5Fusf%5Fedu%2FDocuments%2FRecordings%2FMeeting%20with%20Jason%20Schmidt%2D20220307%5F125645%2DMeeting%20Recording%2Emp4&parent=%2Fpersonal%2Fjasonschmidt%5Fusf%5Fedu%2FDocuments%2FRecordings&ga=1
+```
+
